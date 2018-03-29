@@ -1,0 +1,6 @@
+.vs/
+ImportCSVtoGoogleSheets/client_secret.json
+*.user
+ImportCSVtoGoogleSheets/bin/
+ImportCSVtoGoogleSheets/obj/
+packages/
